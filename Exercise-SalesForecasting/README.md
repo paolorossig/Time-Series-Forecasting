@@ -3,7 +3,7 @@
 Proyecto final del curso online "Análisis Forecast con Python y R" dictado por Data Minig Consulting, a cargo del profesor Cesar Quesada.
 
 - Objetivo:
-  Predecir las ventas totales en el próximo mes. Considerar tiempos diarios.
+  Predecir las ventas totales para el próximo año.
 
 - Metodología: Lo trabajado en clase
 
