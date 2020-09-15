@@ -5,7 +5,7 @@ Proyecto final del curso online "Análisis Forecast con Python y R" dictado por 
 - Objetivo:
   Predecir las ventas totales para el próximo año.
 
-- Metodología: Lo trabajado en clase
+- Metodología: Análisis de series de tiempo
 
 - Target: sales
 
